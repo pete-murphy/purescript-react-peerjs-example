@@ -1,4 +1,4 @@
-![Kapture 2024-02-04 at 17 14 10](https://github.com/pete-murphy/purescript-react-peerjs-example/assets/26548438/9655c707-1cda-459f-a748-42cfc656338b)
+![Kapture 2024-02-04 at 17 22 02](https://github.com/pete-murphy/purescript-react-peerjs-example/assets/26548438/941afba8-c058-4ee1-a2f3-98bb5872cb65)
 
 # Example using PeerJS & React in PureScript
 
