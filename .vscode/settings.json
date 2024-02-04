@@ -3,5 +3,13 @@
   "purescript.formatter": "purs-tidy",
   "[purescript]": {
     "editor.defaultFormatter": "nwolverson.ide-purescript"
+  },
+  "editor.codeLens": false,
+  // From: https://github.com/yaegassy/coc-tailwindcss3/issues/8#issuecomment-1190079514
+  "tailwindCSS.experimental.classRegex": [
+    "\\bclassName\\s*:\\s*\\\"([_a-zA-Z0-9\\s\\-\\:\\/]+)\\\""
+  ],
+  "tailwindCSS.includeLanguages": {
+    "purescript": "javascriptreact"
   }
 }
